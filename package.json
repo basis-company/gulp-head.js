@@ -1,0 +1,32 @@
+{
+  "name": "gulp-head",
+  "version": "1.0.0",
+  "description": "last commit hash and tag without installing git",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/basis-company/gulp-head.js.git"
+  },
+  "keywords": [
+    "gulp",
+    "git",
+    "revision",
+    "hash",
+    "tag"
+  ],
+  "author": {
+    "name": "Ilya Anisimov",
+    "email": "litstat@gmail.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/basis-company/gulp-head.js/issues"
+  },
+  "homepage": "https://github.com/basis-company/gulp-head.js#readme",
+  "dependencies": {
+    "vinyl": "^3.0.0"
+  }
+}
